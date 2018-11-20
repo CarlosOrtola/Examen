@@ -1,0 +1,51 @@
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 7px; text-align: center; 
+    background-color: rgb(115, 192, 255); 
+    margin: 20px ; 
+    padding: 10px;
+    display:inline-block
+    
+}
+ul{
+    text-align:center
+}
+a{
+    text-decoration: none; 
+    color:rgb(72, 72, 247)
+}
+a:hover{
+    color:  rgb(255, 255, 255)
+}
+ul.menu{
+    display: inline
+}
+p{
+    font-family: verdana; text-align: center; color: rgb(72, 72, 247)
+}
+.situación{
+    align-content: center
+}
+.img {display: inline}
+.helpdesk{
+    size: 20px
+}
+hr{
+    border: 2px solid;
+    color: rgb(65, 65, 219)
+}
+footer{
+    background-color: rgb(115, 192, 255);
+    color: rgb(72, 72, 247);
+    text-align: center
+}
+h2{
+    font-family: Verdana;
+    text-align: center
+}
+table{margin-left:300px}
+#helpdesk{
+    margin: 20px;
+    padding: 20px
+}
